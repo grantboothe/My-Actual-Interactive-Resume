@@ -1,0 +1,95 @@
+#super{
+    font-weight: bold;
+}
+
+.orange {
+    background-color: #ff9616;
+}
+
+.purple {
+    background-color: #ff41c7;
+}
+
+.black {
+    background-color: #0f0f0f;
+}
+
+.green {
+    background-color: #ff1b2e;
+}
+
+body{
+    background-color: #1a14ff;
+}
+
+#codeca{
+    display: inline-block;
+}
+
+#w3{
+    display: inline-block;
+    padding: 60px;
+}
+
+#codeschool{
+    display: inline-block;
+    padding: 100px;
+}
+
+#boxcontact{
+    width: 22%;
+    border: 2px solid blue;
+    position: absolute;
+    top: 102px;
+    right: 0px;
+
+}
+
+label{
+    display: block;
+}
+
+.keepheader{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+}
+
+#feelfree{
+    position: absolute;
+    left: 0px;
+    top: 250px;
+}
+
+.bigwhitebox{
+position: absolute;
+    top: 140px;
+    left: 0px;
+}
+
+#textbox{
+    position: absolute;
+    top: 280px;
+    left: 0px;
+}
+
+ #map{
+    position: absolute;
+     right: 65px;
+     top: 500px;
+ }
+
+.square{
+    width:750px;
+    height:400px;
+}
+
+.v{
+    border-left:4px solid #000;
+    border-right:4px solid #000;
+}
+
+.h{
+    border-top:4px solid #000;
+    border-bottom:4px solid #000;
+}
