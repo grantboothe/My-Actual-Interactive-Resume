@@ -1,3 +1,7 @@
+#profilepic{
+    background-image: url(https://cdn.extension.udel.edu/sussexconnection/files/files/2015/03/4leaf-clover.jpg);
+}
+
 #super{
     font-weight: bold;
 }
@@ -18,8 +22,22 @@
     background-color: #ff1b2e;
 }
 
-body{
-    background-color: #1a14ff;
+#template{
+    background-image: url(http://www.planwallpaper.com/static/images/518169-backgrounds.jpg);
+    font-weight: bold;
+
+}
+
+#whiteletters{
+    color: white;
+}
+
+#pg-white{
+    color: white;
+}
+
+#Non-formal{
+    color: white;
 }
 
 #codeca{
@@ -38,11 +56,25 @@ body{
 
 #boxcontact{
     width: 22%;
-    border: 2px solid blue;
+    border: 2px solid black;
     position: absolute;
     top: 102px;
     right: 0px;
 
+}
+
+.v{
+    border-left:4px solid #000;
+    border-right:4px solid #000;
+}
+
+.h{
+    border-top:4px solid #000;
+    border-bottom:4px solid #000;
+}
+
+#purdypic{
+    background-image: url(http://www.pptbackground.net/background/Flower-Butterfly-Autumn-Backgrounds-for-Powerpoint-Templates.jpg);
 }
 
 label{
@@ -84,12 +116,7 @@ position: absolute;
     height:400px;
 }
 
-.v{
-    border-left:4px solid #000;
-    border-right:4px solid #000;
+#citypic{
+    background-image: url(http://www.psdgraphics.com/file/summer-bokeh.jpg);
 }
 
-.h{
-    border-top:4px solid #000;
-    border-bottom:4px solid #000;
-}
